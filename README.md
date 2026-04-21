@@ -20,14 +20,16 @@
 
 ## Instalación
 
-git clone https://github.com/bryanjim142/Gestor-Pagos-Frontend
-cd Gestor-Pagos-Frontend
+```bash
+git clone https://github.com/bryanjim142/gestor-pagos-frontend
+cd gestor-pagos-frontend
 npm install
 npm run dev
+```
 
 ## Vista previa
 
-![Screenshot](docs/screenshot.png)
+[Screenshot](docs/Screenshot.png)
 
 ## Repositorio relacionado
 
