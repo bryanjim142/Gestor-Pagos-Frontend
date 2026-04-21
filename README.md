@@ -29,7 +29,7 @@ npm run dev
 
 ## Vista previa
 
-[Screenshot](docs/Screenshot.png)
+![Screenshot](docs/Screenshot.png)
 
 ## Repositorio relacionado
 
